@@ -1,8 +1,8 @@
-import Card from 'react-bulma-components/lib/components/card';
-import Media from 'react-bulma-components/lib/components/media';
-import Heading from 'react-bulma-components/lib/components/heading';
-import Image from 'react-bulma-components/lib/components/image';
-import Content from 'react-bulma-components/lib/components/content';
+import Card from 'react-bulma-components/src/components/card';
+import Media from 'react-bulma-components/src/components/media';
+import Heading from 'react-bulma-components/src/components/heading';
+import Image from 'react-bulma-components/src/components/image';
+import Content from 'react-bulma-components/src/components/content';
 
 export default () => (
   <Card>
